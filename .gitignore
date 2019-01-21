@@ -1,3 +1,7 @@
 .idea
-/bin
-/pkg
+bin
+pkg
+
+**/vendor
+
+.cache
